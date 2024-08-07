@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 90D9-40DC
+
+ Directory of C:\Users\anike\OneDrive\Desktop\MYP
+
+08/07/2024  11:28 AM    <DIR>          .
+08/07/2024  11:27 AM    <DIR>          ..
+08/07/2024  11:28 AM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  317,738,848,256 bytes free
